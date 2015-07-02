@@ -1,6 +1,6 @@
 This is a modification of a proof-of-concept of a chrome address spoofing flaw published by David Leo (david.leo () deusen co uk) on the [Full Disclosure mailing list](http://seclists.org/fulldisclosure/2015/Jun/108).
 
-**(According to the [original publication](http://seclists.org/fulldisclosure/2015/Jun/108), this was reported to Google but they regarded it as a non-vulnerability.)**
+**(According to the [original publication](http://seclists.org/fulldisclosure/2015/Jun/108), this was reported to Google but it was regarded as a non-vulnerability.)**
 
 This version spoofs the HTTPS version of facebook.com. Surprisingly, it even shows the certificate in green:
 
